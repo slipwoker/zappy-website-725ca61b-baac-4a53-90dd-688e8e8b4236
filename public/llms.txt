@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ביטלוג הוא הבלוג הטכנולוגי המוביל בישראל עם מדריכים מעמיקים, חדשות טכנולוגיה בעברית וטיפים מקצועיים לאנשי IT. הצטרפו לקהילה שלנו עכשיו!
+
+### בלוג
+https://example.com/blog
+גלו מאמרים מקצועיים, מדריכים טכנולוגיים לאנשי IT וחדשות עדכניות בעולם הטכנולוגיה. תוכן איכותי בעברית שידרג את הידע המקצועי שלכם!
+
+### מאמר
+https://example.com/blog/article
+קראו מדריכים טכנולוגיים מעמיקים עם פתרונות מעשיים לאתגרים יומיומיים של אנשי IT. כל מאמר כתוב בבהירות ומלא בדוגמאות קוד ועצות מקצועיות.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה טכנולוגית או רעיון למאמר? צוות ביטלוג כאן בשבילכם! צרו קשר עכשיו ונשמח לעזור, לשתף פעולה ולהעשיר את הבלוג הטכנולוגי שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ביטלוג
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ביטלוג
+
+### Category
+https://example.com/category/:slug
+מוצרים - ביטלוג
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
